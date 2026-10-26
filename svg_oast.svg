@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#ffe0e0"/>
+  <text x="10" y="20" font-size="12">OAST Chain</text>
+  <image href="https://yktfdg0mf4n6daxvm4egs37z66cwxrgrh.oast.site/svg-chain-img.png" x="10" y="30" width="380" height="160"/>
+  <image xlink:href="https://yktfdg0mf4n6daxvm4egs37z66cwxrgrh.oast.site/svg-chain-xlink.png" x="10" y="30" width="380" height="160"/>
+</svg>
