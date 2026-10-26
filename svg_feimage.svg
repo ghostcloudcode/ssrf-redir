@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <filter id="f1">
+      <feImage xlink:href="https://yktfdg0mf4n6daxvm4egs37z66cwxrgrh.oast.site/svg-feimage.png" result="img"/>
+    </filter>
+  </defs>
+  <rect width="400" height="200" fill="#e0ffe0" filter="url(#f1)"/>
+  <text x="10" y="20" font-size="12">feImage Chain</text>
+</svg>
